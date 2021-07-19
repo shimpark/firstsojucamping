@@ -435,6 +435,18 @@ main {
   width: 32.45%;
   height: 0.8%;
 }
+.main-btn__camcnic { /* 0719 zoe 추가 */
+  top: 52%;
+  left: 63.85%;
+  width: 10.75%;
+  height: 0.55%;
+}
+.main-btn__hashtag {
+  top: 66.95%;
+  left: 27.35%;
+  width: 45.45%;
+  height: 1.25%;
+}
 .main-btn__share-facebook {
   left: 38.38%;
 }
@@ -471,6 +483,17 @@ main {
     left: 25.85%;
     width: 48.75%;
     height: 0.55%;
+  }
+  .main-btn__camcnic { /* 0719 zoe 추가 */
+    top: 47.35%;
+    left: 54.85%;
+    width: 21.75%;
+  }
+  .main-btn__hashtag {
+    top: 65%;
+    left: 18.8%;
+    width: 62.5%;
+    height: 0.85%;
   }
   .main-btn__share-facebook {
     left: 34.38%;
